@@ -6,7 +6,42 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25ecfed3-d983-443b-8d05-602cfbe36e3e" name="Default" comment="" />
+    <list default="true" id="25ecfed3-d983-443b-8d05-602cfbe36e3e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/artifacts/JawaSweeper_jar/JawaSweeper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/JavaSweeper$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/JavaSweeper$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/JavaSweeper$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/JavaSweeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/bombed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/flaged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/inform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/nobomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/num8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/opened.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/img/zero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Bomb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Coord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Flag$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Flag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Game$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JawaSweeper/sweeper/Ranges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +53,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -40,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="357">
               <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
@@ -49,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Bomb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="53" lean-forward="true" selection-start-line="7" selection-end-line="53" />
+            <state relative-caret-position="816">
+              <caret line="53" selection-start-line="7" selection-end-line="53" />
               <folding>
                 <element signature="e#393#394#0" expanded="true" />
                 <element signature="e#434#435#0" expanded="true" />
@@ -62,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Flag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="1258">
               <caret line="82" selection-start-line="6" selection-end-line="82" />
             </state>
           </provider>
@@ -71,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="408">
               <caret line="24" column="5" selection-start-line="7" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
@@ -89,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Ranges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="748">
               <caret line="55" selection-start-line="9" selection-end-line="55" />
               <folding>
                 <element signature="e#1386#1387#0" expanded="true" />
@@ -102,7 +136,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Coord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="340">
               <caret line="20" column="5" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
@@ -111,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sweeper/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="8" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="561">
+              <caret line="35" column="5" selection-start-line="8" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -132,6 +166,9 @@
       <find>IMAGE_SIZE</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,20 +184,26 @@
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +215,12 @@
               <item name="JawaSweeper" type="b2602c69:ProjectViewProjectNode" />
               <item name="JawaSweeper" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JawaSweeper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JawaSweeper" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JawaSweeper" type="b2602c69:ProjectViewProjectNode" />
@@ -188,6 +237,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,17 +360,25 @@
       <option name="presentableId" value="Default" />
       <updated>1513309946170</updated>
       <workItem from="1564151521892" duration="2551000" />
+      <workItem from="1564719513297" duration="669000" />
     </task>
+    <task id="LOCAL-00001" summary="First load.">
+      <created>1564719766020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564719766020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2551000" />
+    <option name="totallyTimeSpent" value="3220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26335877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26717559" />
       <window_info id="Structure" order="1" weight="0.24886535" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -327,21 +386,19 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32733223" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,10 +408,16 @@
       <window_info anchor="right" id="Properties" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First load." />
+    <option name="LAST_COMMIT_MESSAGE" value="First load." />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -372,35 +435,47 @@
     <entry file="file://$PROJECT_DIR$/res/img/img/num7.png" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/image/ColorModel.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/javax/swing/JFrame.java" />
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Coord.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaSweeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="20" column="5" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="109">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Box.java">
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="8" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" selection-start-line="7" selection-end-line="53" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Flag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="82" selection-start-line="6" selection-end-line="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sweeper/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="408">
           <caret line="24" column="5" selection-start-line="7" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Ranges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="55" selection-start-line="9" selection-end-line="55" />
-          <folding>
-            <element signature="e#1386#1387#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,40 +486,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Bomb.java">
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Ranges.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="53" lean-forward="true" selection-start-line="7" selection-end-line="53" />
+        <state relative-caret-position="748">
+          <caret line="55" selection-start-line="9" selection-end-line="55" />
           <folding>
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1424#1425#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Flag.java">
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Coord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="82" selection-start-line="6" selection-end-line="82" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="6" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sweeper/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/sweeper/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSweeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="35" column="5" selection-start-line="8" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
